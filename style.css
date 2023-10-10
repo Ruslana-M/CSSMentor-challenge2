@@ -20,3 +20,55 @@
     background-size: cover;
     
  }
+ .header{
+    
+    padding: 38px;
+
+ }
+ .header img{
+    height: 36px;
+    
+ }
+ .pages_view{
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    padding-top: 22px;
+   
+ }
+ .pages_view img{
+
+ }
+ .text{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    height: 46%;
+    justify-content: space-around;
+    padding: 36px;
+ }  
+ .text h2{
+
+ }
+ .text p {
+    font-size: 18px;
+    line-height: 28px;
+ }
+ button{
+    background-color: white;
+    color: black;
+    padding: 20px 106px;
+    border-radius: 24px;
+    border: transparent;
+ }
+ .footer{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+    padding-right: 25%;
+    padding-left: 25%;
+    color: white;
+    font-size: 24px;
+ }
